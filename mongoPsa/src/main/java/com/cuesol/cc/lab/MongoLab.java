@@ -14,7 +14,7 @@ import com.mongodb.MongoException;
  * This is a test number 2
  * Testing a change to Master
  * Change master again
- * 
+ * Master3
  */
 public class MongoLab {
 	public static void main(String[] args) {
