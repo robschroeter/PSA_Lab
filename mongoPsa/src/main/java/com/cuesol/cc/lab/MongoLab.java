@@ -11,7 +11,7 @@ import com.mongodb.MongoException;
  
 /**
  * Java + MongoDB Hello world Example
- * This is a test
+ * This is a test number 2
  * 
  */
 public class MongoLab {
