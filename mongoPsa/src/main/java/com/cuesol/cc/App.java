@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Branch 1" );
         System.out.println( "Updating branch 1" );
+        System.out.println( "CArl brnch 2 after swtiching back to heqad" );
     }
 }
