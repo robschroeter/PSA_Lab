@@ -15,5 +15,6 @@ public class App
         System.out.println( "after 1 adn 2 merged to head, go back to 2 and create branch 3" );
         
         System.out.println( "merge 3 onto 1 " );
+        System.out.println( "merge 1 onto master " );
     }
 }
